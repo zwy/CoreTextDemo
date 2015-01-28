@@ -1,0 +1,14 @@
+ [
+  
+  { "color" : "blue",
+  "content" : "标题居中\n",
+  "size" : 20,
+  "type" : "txt",
+  "alignment" : "center"
+  },
+  { "color" : "default",
+  "content" : "这在这里尝试放一个参考链接：/n",
+  "type" : "txt"
+  }
+  
+]
